@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestServerApp</string>
+    <string name="textview">result</string>
+    <string name="button">Посчитать</string>
+</resources>
